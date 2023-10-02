@@ -1,7 +1,7 @@
 const Data = [
   {
     id: 1,
-    img: "./Images/p.jpg",
+    img: "https://Killuax007.github.io/Profile_cards/Images/p.jpg",
     name: "Manoj kumar panda",
     stream: "BCA",
     description: "Mern stack developer",
