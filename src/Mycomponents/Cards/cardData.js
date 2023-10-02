@@ -27,7 +27,7 @@ const Data = [
   },
   {
     id: 2,
-    img: "images/r.jpg",
+    img: "Images/r.jpg",
     name: "Rakesh kumar parida",
     stream: "MCA",
     description: "Full-stack Developer",
@@ -40,7 +40,7 @@ const Data = [
   },
   {
     id: 3,
-    img: "images/r2.jpg",
+    img: "Images/r2.jpg",
     name: "Ram prasad sahu",
     stream: "BTech",
     description: "Electronical & Tele Engineer",
@@ -53,7 +53,7 @@ const Data = [
   },
   {
     id: 4,
-    img: "images/d.jpg",
+    img: "Images/d.jpg",
     name: "Sabyasachi Nayak",
     stream: "MBA",
     description: "Business Manager",
@@ -66,7 +66,7 @@ const Data = [
   },
   {
     id: 5,
-    img: "images/s.jpg",
+    img: "Images/s.jpg",
     name: "Sasanka sekhar subudhi",
     stream: "BTech",
     description: "Civil engineer",
