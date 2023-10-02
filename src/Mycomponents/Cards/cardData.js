@@ -79,7 +79,7 @@ const Data = [
     skills: ["Product management", "Teamwork", "Designing", "Creativity"],
   },
   {
-    id: 5,
+    id: 6,
     img: "Images/l.jpg",
     name: "Lipun kumar jena",
     stream: "BSc",
