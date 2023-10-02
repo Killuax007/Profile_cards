@@ -89,7 +89,7 @@ const Data = [
     twitter: "https://www.twitter.com/",
     youtube: "https://www.youtube.com/",
     linkedin: "https://www.linkedin.com/",
-    skills: ["Product management", "Teamwork", "Designing", "Creativity"],
+    skills: ["Blogging", "Crafting", "Designing", "Creativity"],
   },
 ];
 export default Data;
