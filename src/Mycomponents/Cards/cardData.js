@@ -78,5 +78,18 @@ const Data = [
     linkedin: "https://www.linkedin.com/",
     skills: ["Product management", "Teamwork", "Designing", "Creativity"],
   },
+  {
+    id: 5,
+    img: "Images/l.jpg",
+    name: "Lipun kumar jena",
+    stream: "BSc",
+    description: "Bloggger & Youtuber",
+    facebook: "",
+    instagram: "https://www.instagram.com/naruto247405/",
+    twitter: "https://www.twitter.com/",
+    youtube: "https://www.youtube.com/",
+    linkedin: "https://www.linkedin.com/",
+    skills: ["Product management", "Teamwork", "Designing", "Creativity"],
+  },
 ];
 export default Data;
